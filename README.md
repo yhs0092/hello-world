@@ -6,3 +6,5 @@ a simple demo
 2. make some changes 20170708123
 
 3. test push
+
+4. test change user name
